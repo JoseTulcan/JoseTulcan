@@ -2,7 +2,7 @@
 
 <!--IMAGEN -->
 <a target="_blank" align="rigth">
-  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="270" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <!--SOBRE MI-->
