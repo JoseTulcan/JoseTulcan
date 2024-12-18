@@ -7,17 +7,20 @@
 
 <!--SOBRE MI-->
 
-### About me 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> 
+ ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px ></picture>  About me
+- 📚 I am a final semester student of Electronic Engineering at the University of Nariño.
+
+- 💻📈 I am currently a junior Data Analyst. 
+
+ I have a strong passion for technology and enjoy exploring new tools.
 
 
-### 🐱My Github stats:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTulcan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/JoseTulcan/github-readme-stats)
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=JoseTulcan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 -->
-<p align="left">
+### 🐱My Github stats:
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
