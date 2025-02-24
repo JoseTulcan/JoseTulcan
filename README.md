@@ -10,9 +10,9 @@
  ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px ></picture>  About me
 - 📚 I am a final semester student of Electronic Engineering at the University of Nariño.
 
-<!-- 💻📈 I am currently a junior Data Analyst.-->
+<!-- 💻📈 I am currently a junior Data Analyst.
 
- I have a strong passion for technology and enjoy exploring new tools.
+ I have a strong passion for technology and enjoy exploring new tools. -->
 
 
 <!--
